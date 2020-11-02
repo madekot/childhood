@@ -84,7 +84,7 @@
         <div class="row">
             <div class="col-lg-10 offset-lg-1">
                 <div class="toys__alert">
-                    <span><?php the_field('text--bold') ?></span><?php the_field('text') ?>
+                   <?php the_field('text') ?>
                 </div>
             </div>
         </div>
